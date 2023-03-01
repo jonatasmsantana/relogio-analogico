@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(21, 22, 22);
+}
+
+.canvas{
+    width: 40vw;
+    height: 40vw;
+    background-color: transparent;
+}
